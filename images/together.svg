@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="930px" height="796px" viewBox="0 0 930 796" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>together</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#B3B3B3" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#B3B3B3" stop-opacity="0.1" offset="54%"></stop>
+            <stop stop-color="#B3B3B3" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23300%" y1="46800%" x2="23300%" y2="39000%" id="linearGradient-2">
+            <stop stop-color="#B3B3B3" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#B3B3B3" stop-opacity="0.1" offset="54%"></stop>
+            <stop stop-color="#B3B3B3" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="together">
+            <path d="M692,362 C692,362 720,258 664,151" id="Shape" stroke="#E0E0E0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0"></path>
+            <path d="M308.1,328.15 C317.98,287.79 320.93,203.65 190.44,167.93" id="Shape" stroke="#E0E0E0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0"></path>
+            <rect id="Rectangle-path" fill="url(#linearGradient-1)" fill-rule="nonzero" x="71" y="356" width="811" height="440"></rect>
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="78" y="362" width="798" height="422.5"></rect>
+            <circle id="Oval" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="233" cy="429" r="39"></circle>
+            <circle id="Oval" fill="#FF5A5F" fill-rule="nonzero" cx="233" cy="429" r="35"></circle>
+            <rect id="Rectangle-path" fill="#FFAA91" fill-rule="nonzero" x="313" y="416" width="197" height="20"></rect>
+            <rect id="Rectangle-path" fill="#F5F5F5" fill-rule="nonzero" x="232.5" y="545.5" width="492" height="20"></rect>
+            <rect id="Rectangle-path" fill="#F5F5F5" fill-rule="nonzero" x="232.5" y="501.5" width="492" height="20"></rect>
+            <rect id="Rectangle-path" fill="#F5F5F5" fill-rule="nonzero" x="232.5" y="589.5" width="492" height="20"></rect>
+            <rect id="Rectangle-path" fill="#F5F5F5" fill-rule="nonzero" x="232.5" y="633.5" width="492" height="20"></rect>
+            <rect id="Rectangle-path" fill="#F5F5F5" fill-rule="nonzero" x="232.5" y="677.5" width="492" height="20"></rect>
+            <rect id="Rectangle-path" fill="#F5F5F5" fill-rule="nonzero" x="232.5" y="721.5" width="492" height="20"></rect>
+            <path d="M155.59,332.76 C156.35,311.14 153.71,278.82 134.81,257.35" id="Shape" stroke="#BDBDBD" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0"></path>
+            <path d="M607.59,341.76 C608.35,320.14 605.71,287.82 586.81,266.35" id="Shape" stroke="#E0E0E0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0"></path>
+            <path d="M795.41,332.76 C794.65,311.14 797.29,278.82 816.19,257.35" id="Shape" stroke="#BDBDBD" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0"></path>
+            <rect id="Rectangle-path" fill="#FFAA91" fill-rule="nonzero" opacity="0.7" x="0" y="114.78" width="111" height="60.43"></rect>
+            <rect id="Rectangle-path" fill="#FFAA91" fill-rule="nonzero" opacity="0.7" x="608" y="73.78" width="111" height="60.43"></rect>
+            <rect id="Rectangle-path" fill="#FFAA91" fill-rule="nonzero" opacity="0.7" x="513" y="181.78" width="111" height="60.43"></rect>
+            <rect id="Rectangle-path" fill="#FF5A5F" fill-rule="nonzero" x="83" y="127.58" width="180.78" height="98.41"></rect>
+            <rect id="Rectangle-path" fill="#FF5A5F" fill-rule="nonzero" x="749.22" y="132.58" width="180.78" height="98.41"></rect>
+            <rect id="Rectangle-path" fill="#FF5A5F" fill-rule="nonzero" x="339.71" y="0" width="180.78" height="98.41"></rect>
+            <path d="M422.82,332.22 C428.95,310.86 432.94,276.73 413.5,241.5 C389.5,197.99 411.08,155.6 423.35,137.14" id="Shape" stroke="#BDBDBD" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0"></path>
+        </g>
+    </g>
+</svg>
